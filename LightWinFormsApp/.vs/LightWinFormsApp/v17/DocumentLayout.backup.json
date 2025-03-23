@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Denys\\source\\repos\\LightWinFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{540422BE-B82A-42AC-8A1E-7F4AA23DD70B}|LightWinFormsApp\\LightWinFormsApp.csproj|c:\\users\\denys\\source\\repos\\lightwinformsapp\\lightwinformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540422BE-B82A-42AC-8A1E-7F4AA23DD70B}|LightWinFormsApp\\LightWinFormsApp.csproj|solutionrelative:lightwinformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540422BE-B82A-42AC-8A1E-7F4AA23DD70B}|LightWinFormsApp\\LightWinFormsApp.csproj|c:\\users\\denys\\source\\repos\\lightwinformsapp\\lightwinformsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540422BE-B82A-42AC-8A1E-7F4AA23DD70B}|LightWinFormsApp\\LightWinFormsApp.csproj|solutionrelative:lightwinformsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540422BE-B82A-42AC-8A1E-7F4AA23DD70B}|LightWinFormsApp\\LightWinFormsApp.csproj|c:\\users\\denys\\source\\repos\\lightwinformsapp\\lightwinformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{540422BE-B82A-42AC-8A1E-7F4AA23DD70B}|LightWinFormsApp\\LightWinFormsApp.csproj|solutionrelative:lightwinformsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Denys\\source\\repos\\LightWinFormsApp\\LightWinFormsApp\\Program.cs",
+              "RelativeDocumentMoniker": "LightWinFormsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Denys\\source\\repos\\LightWinFormsApp\\LightWinFormsApp\\Program.cs",
+              "RelativeToolTip": "LightWinFormsApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:06:32.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Denys\\source\\repos\\LightWinFormsApp\\LightWinFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "LightWinFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Denys\\source\\repos\\LightWinFormsApp\\LightWinFormsApp\\Form1.cs",
+              "RelativeToolTip": "LightWinFormsApp\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:58:58.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Denys\\source\\repos\\LightWinFormsApp\\LightWinFormsApp\\Form1.cs",
+              "RelativeDocumentMoniker": "LightWinFormsApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Denys\\source\\repos\\LightWinFormsApp\\LightWinFormsApp\\Form1.cs [Design]",
+              "RelativeToolTip": "LightWinFormsApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T09:56:40.398Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
